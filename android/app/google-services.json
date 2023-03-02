@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776276977054",
+    "project_id": "notifeenotification-d56c7",
+    "storage_bucket": "notifeenotification-d56c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776276977054:android:ddb5834d30c5a57238e28f",
+        "android_client_info": {
+          "package_name": "com.notifikasinotifee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776276977054-06q29ob8kfkp9d8adtbihen3sr1qq7u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5QDzfm1tEWqeURX7PCCfrnYRNT2vZd_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776276977054-06q29ob8kfkp9d8adtbihen3sr1qq7u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
